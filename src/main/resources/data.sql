@@ -1,0 +1,3 @@
+INSERT INTO tbl_user( user_no , user_id , user_name , del_flg , create_user_id , create_date , last_update_user_id , last_update_date ) VALUES ( 1 , 'uGyW398bwGyhtavk' , '山田　太郎' , 0 , 'system' , current_timestamp , 'system' , current_timestamp );
+INSERT INTO tbl_user( user_no , user_id , user_name , del_flg , create_user_id , create_date , last_update_user_id , last_update_date ) VALUES ( 2 , '/opflNMMAqWO1+Wr' , '鈴木　次郎' , 0 , 'system' , current_timestamp , 'system' , current_timestamp );
+INSERT INTO tbl_user( user_no , user_id , user_name , del_flg , create_user_id , create_date , last_update_user_id , last_update_date ) VALUES ( 3 , 'eY3PsFhlrFDwbO6L' , '田中　三郎' , 0 , 'system' , current_timestamp , 'system' , current_timestamp );
